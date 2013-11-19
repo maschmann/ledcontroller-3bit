@@ -81,7 +81,7 @@ int main(int argc,char** argv)
     1 1 0 yellow 0x6 (more of a mustard - green color)
     1 1 1 white  0x7 (a very blue-ish white)
 */
- if ( strcmp(argv[1],"blue") == 0 )
+ if ( strcmp(argv[1],"green") == 0 )
  {
      code = 1;
  }

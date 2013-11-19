@@ -89,19 +89,19 @@ int main(int argc,char** argv)
  {
      code = 2;
  }
- else if ( strcmp(argv[1],"green") == 0 )
+ else if ( strcmp(argv[1],"blue") == 0 )
  {
      code = 3;
  }
- else if ( strcmp(argv[1],"aqua") == 0 )
+ else if ( strcmp(argv[1],"cyan") == 0 )
  {
      code = 4;
  }
- else if ( strcmp(argv[1],"purple") == 0 )
+ else if ( strcmp(argv[1],"yellow") == 0 )
  {
      code = 5;
  }
- else if ( strcmp(argv[1],"yellow") == 0 )
+ else if ( strcmp(argv[1],"purple") == 0 )
  {
      code = 6;
  }

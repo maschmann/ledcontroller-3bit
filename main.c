@@ -57,7 +57,7 @@ int main(int argc,char** argv)
  unsigned char code = 0;
  if (argc != 2 ) 
  {
-    printf("syntax: %s blue | red | green | aqua | purple | yellow | white |  off\n",argv[0]);
+    printf("syntax: %s blue | red | green | cyan | purple | yellow | white |  off\n",argv[0]);
     return -1;
 
  }

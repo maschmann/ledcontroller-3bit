@@ -5,7 +5,7 @@ LEDCONTROLLER="/usr/bin/ledcontroller"
 
 while (true); do
 
-  for discoColor in blue red green aqua purple yellow white; do
+  for discoColor in blue red green cyan purple yellow white; do
 
     $LEDCONTROLLER $discoColor
 
